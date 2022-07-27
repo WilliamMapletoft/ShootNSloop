@@ -1,0 +1,44 @@
+SDL_TTF Loaded
+Font loaded successfully
+Font loaded successfully
+Debuff file unsuccessful, playing without
+Enemy hit by cannonball
+Enemy hit by cannonball
+Enemy hit by cannonball
+Enemy hit by cannonball
+Enemy hit by cannonball
+Enemy hit by firebomb
+Enemy hit by firebomb
+Enemy hit by firebomb
+Enemy hit by firebomb
+Enemy hit by firebomb
+Enemy hit by firebomb
+Player hit by cannonball
+Enemy hit by firebomb
+Enemy hit by firebomb
+Enemy hit by firebomb
+Player hit by firebomb
+Player hit by firebomb
+Player hit by firebomb
+Player hit by firebomb
+Player hit by firebomb
+Player hit by firebomb
+Enemy hit by firebomb
+Enemy hit by firebomb
+Enemy hit by firebomb
+Ship collision detected
+Ship collision detected
+Ship collision detected
+Player hit by firebomb
+Player hit by firebomb
+Player hit by firebomb
+Enemy hit by firebomb
+Enemy hit by firebomb
+Enemy hit by firebomb
+Gameloop ending
+Loaded shipsheet.png successfully
+shipTexture created successfully
+Loaded sailsheet.png successfully
+Loaded shipsheet.png successfully
+shipTexture created successfully
+Loaded sailSheetEnemy.png successfully
